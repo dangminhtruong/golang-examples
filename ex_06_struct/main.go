@@ -22,7 +22,6 @@ func main(){
 			"0965296242",
 		},
 	}
-
 	me.updateFirstName("Dang")
 	me.updateEmail("dang.minh.truong@framgia")
 	me.showAllInfor();
