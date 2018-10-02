@@ -43,5 +43,5 @@ func checkLink(link string, c chan string){
 		return 
 	}
 	
-	c <- link + " Is up!"
+	c <- link + " is up and running!"
 } 
